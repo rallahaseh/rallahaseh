@@ -7,9 +7,9 @@ Specializes in bringing rigorous testing and bulletproof code to tough engineeri
 
 ### Github States
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=rallahaseh&count_private=true&show_icons=true&theme=apprentice" alt="github states"> 
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rallahaseh&count_private=true&show_icons=true&theme=apprentice" alt="github states"> 
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rallahaseh&exclude_repo=rallahaseh.github.io&layout=compact&theme=apprentice" alt="Top langs">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rallahaseh&exclude_repo=rallahaseh.github.io&layout=compact&theme=apprentice" alt="Top langs">
 </p>
 
 ### Skill-set
