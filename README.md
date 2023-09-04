@@ -17,9 +17,13 @@ Specializes in bringing rigorous testing and bulletproof code to tough engineeri
   <img src="https://img.shields.io/badge/objective-c-00599C?style=for-the-badge&logo=objective-c&logoColor=white" alt="objective-c">
   <img src="https://img.shields.io/badge/swift-%23F05033.svg?style=for-the-badge&logo=swift&logoColor=white" alt="swift">
   <img src="https://img.shields.io/badge/angular-%2300ADD8.svg?style=for-the-badge&logo=angular&logoColor=white" alt="angular">
+  <img src="https://img.shields.io/badge/react-134f5c.svg?style=for-the-badge&logo=react&logoColor=white" alt="react">
   <img src="https://img.shields.io/badge/typescript-43853D?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
-  <img src="https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js">
+  <img src="https://img.shields.io/badge/vhdl-f44336?style=for-the-badge&logo=vhdl&logoColor=white" alt="vhdl">
+  <img src="https://img.shields.io/badge/c-0000FF?style=for-the-badge&logo=c&logoColor=white" alt="c">
+  <img src="https://img.shields.io/badge/python-6fa8dc?style=for-the-badge&logo=python&logoColor=white" alt="python">
   <img src="https://img.shields.io/badge/solidity-232F3E?style=for-the-badge&logo=solidity&logoColor=white" alt="solidity">
+  <img src="https://img.shields.io/badge/graphql-00000F?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql">  
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git">
