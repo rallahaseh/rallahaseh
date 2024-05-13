@@ -1,8 +1,8 @@
 ### Who I am?
-I am Rashed Al-Lahaseh, an iOS developer 🍏 from Jordan. While I finish my Master's degree in Applied Computer Science, I am working for Sixt 🏎 in Germany. 
+I am Rashed Al-Lahaseh, an iOS developer 🍏 from Jordan. Working for HungerStation 🏎 in Saudi Arabia.
 
 A software engineer and technology professional, recently focusing on applications of blockchain technologies.
-Have 5 years of experience providing professional consulting services to clients ranging from startups to global corporations.
+Have over 7 years of experience providing professional consulting services to clients ranging from startups to global corporations.
 Specializes in bringing rigorous testing and bulletproof code to tough engineering challenges.
 
 ### Github States
