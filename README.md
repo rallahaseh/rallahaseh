@@ -1,5 +1,5 @@
 ### Who I am?
-I am Rashed Al-Lahaseh, an iOS developer 🍏 from Jordan. Working for HungerStation 🏎 in Saudi Arabia.
+I am Rashed Al-Lahaseh, an iOS developer 🍏 from Jordan. Working for HungerStation 🥙 in Saudi Arabia.
 
 A software engineer and technology professional, recently focusing on applications of blockchain technologies.
 Have over 7 years of experience providing professional consulting services to clients ranging from startups to global corporations.
